@@ -1,0 +1,15 @@
+/* Style the counter text */
+#count {
+  font-weight: bold;
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+}
+
+/* Style the logo */
+#logo {
+  width: 200px;
+  height: 200px;
+  background-image: url('../assets/holberton-logo.jpg');
+  background-size: cover;
+}
